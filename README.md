@@ -30,7 +30,7 @@ A Kotlin Multiplatform application that provides stats and insights for football
 - Dependency injection with Koin
 - Built with Compose, Coroutines, Flows
 
-**Status:** 🛠 In Progress  
+**Status:** ⚡ Updating
 **Tech Stack:** Kotlin Multiplatform, Firebase, MySQL, Compose, Koin, Coroutines
 
 ### 🧩 FantasyMarket Screenshots
