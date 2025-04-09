@@ -31,7 +31,7 @@ A Kotlin Multiplatform application that provides stats and insights for football
 - Built with Compose, Coroutines, Flows
 
 **Status:** ⚡ Updating <br>
-**Tech Stack:** Kotlin Multiplatform, Firebase, MySQL, Compose, Koin, Coroutines
+**Tech Stack:** Kotlin Multiplatform, Firebase, MySQL, Room, SQLite, Compose, Koin, Coroutines
 
 ### 🧩 FantasyMarket Screenshots
 
