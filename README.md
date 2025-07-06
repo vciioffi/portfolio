@@ -93,18 +93,24 @@ A modern Android application built with Jetpack Compose for creating, managing, 
   &nbsp;
   <img src="assets/sharedshop_4.png" width="180" style="margin: 10px;"/>
   &nbsp;
-  <img src="assets/sharedshop_5.png" width="180" style="margin: 10px;"/>
 </div>
 
 <br>
 
 <div align="center">
+  <img src="assets/sharedshop_5.png" width="180" style="margin: 10px;"/>
+  &nbsp;
   <img src="assets/sharedshop_6.png" width="180" style="margin: 10px;"/>
   &nbsp;
   <img src="assets/sharedshop_7.png" width="180" style="margin: 10px;"/>
   &nbsp;
   <img src="assets/sharedshop_8.png" width="180" style="margin: 10px;"/>
   &nbsp;
+</div>
+
+<br>
+
+<div align="center">
   <img src="assets/sharedshop_9.png" width="180" style="margin: 10px;"/>
   &nbsp;
   <img src="assets/sharedshop_10.png" width="180" style="margin: 10px;"/>
