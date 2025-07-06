@@ -65,6 +65,27 @@ A Kotlin Multiplatform application that provides stats and insights for football
 
 ---
 
+### 🛍️ SharedShop
+
+A modern Android application built with Jetpack Compose for creating, managing, and sharing shopping lists collaboratively.
+
+**Features:**
+- Intuitive creation and management of shopping lists with categories.
+- Join shared lists easily via invitation links.
+- Intent filters to join lists via urls
+- Real-time collaboration.
+- Modern UI built entirely with Jetpack Compose.
+- Clean Architecture with MVVM pattern.
+- User-friendly dialogs for limits, confirmations, and joining lists.
+- Android and iOS support using KMP framework
+
+**Status:** ✅ Finished  
+**Tech Stack:** Android (Jetpack Compose), Kotlin, Coroutines, Flow, MVVM, Clean Architecture, Firebase, Ktor, DI: Koin, Kotlin Multiplatform
+
+**SharedShop Screenshots:**
+
+---
+
 ### 🎬 TheMovieHub
 
 An Android app to browse now-playing movies, search titles, save favorites, and manage watchlists.
