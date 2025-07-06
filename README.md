@@ -75,6 +75,7 @@ A modern Android application built with Jetpack Compose for creating, managing, 
 - Intent filters to join lists via urls
 - Real-time collaboration.
 - Modern UI built entirely with Jetpack Compose.
+- Widgets on Android platform to display lists
 - Clean Architecture with MVVM pattern.
 - User-friendly dialogs for limits, confirmations, and joining lists.
 - Android and iOS support using KMP framework
@@ -85,13 +86,13 @@ A modern Android application built with Jetpack Compose for creating, managing, 
 **SharedShop Screenshots:**
 
 <div align="center">
-  <img src="assets/sharedshop_1.png" width="180" style="margin: 10px;"/>
+  <img src="assets/sharedshop_1.png" width="200" style="margin: 10px;"/>
   &nbsp;
-  <img src="assets/sharedshop_2.png" width="180" style="margin: 10px;"/>
+  <img src="assets/sharedshop_2.png" width="200" style="margin: 10px;"/>
   &nbsp;
-  <img src="assets/sharedshop_3.png" width="180" style="margin: 10px;"/>
+  <img src="assets/sharedshop_3.png" width="200" style="margin: 10px;"/>
   &nbsp;
-  <img src="assets/sharedshop_4.png" width="180" style="margin: 10px;"/>
+  <img src="assets/sharedshop_4.png" width="200" style="margin: 10px;"/>
   &nbsp;
 </div>
 
