@@ -114,6 +114,10 @@ A modern Android application built with Jetpack Compose for creating, managing, 
   <img src="assets/sharedshop_9.png" width="180" style="margin: 10px;"/>
   &nbsp;
   <img src="assets/sharedshop_10.png" width="180" style="margin: 10px;"/>
+   &nbsp;
+  <img src="assets/sharedshop_11.png" width="180" style="margin: 10px;"/>
+   &nbsp;
+  <img src="assets/sharedshop_12.png" width="180" style="margin: 10px;"/>
 </div>
 
 
