@@ -38,29 +38,36 @@ A Kotlin Multiplatform application that provides stats and insights for football
 <div align="center">
   <img src="assets/fantasy_market_1.jpeg" width="180" style="margin: 10px;"/>
   &nbsp;
-  <img src="assets/fantasy_market_2.jpeg" width="180" style="margin: 10px;"/>
+  <img src="assets/fantasy_market_2.png" width="180" style="margin: 10px;"/>
   &nbsp;
-  <img src="assets/fantasy_market_3.jpeg" width="180" style="margin: 10px;"/>
+  <img src="assets/fantasy_market_3.png" width="180" style="margin: 10px;"/>
   &nbsp;
-  <img src="assets/fantasy_market_4.jpeg" width="180" style="margin: 10px;"/>
-  &nbsp;
-  <img src="assets/fantasy_market_5.jpeg" width="180" style="margin: 10px;"/>
+  <img src="assets/fantasy_market_4.png" width="180" style="margin: 10px;"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="assets/fantasy_market_6.jpeg" width="180" style="margin: 10px;"/>
+  <img src="assets/fantasy_market_5.png" width="180" style="margin: 10px;"/>
   &nbsp;
-  <img src="assets/fantasy_market_7.jpeg" width="180" style="margin: 10px;"/>
+  <img src="assets/fantasy_market_6.png" width="180" style="margin: 10px;"/>
+  &nbsp;
+  <img src="assets/fantasy_market_7.png" width="180" style="margin: 10px;"/>
   &nbsp;
   <img src="assets/fantasy_market_8.jpeg" width="180" style="margin: 10px;"/>
-  &nbsp;
-  <img src="assets/fantasy_market_9.jpeg" width="180" style="margin: 10px;"/>
-  &nbsp;
-  <img src="assets/fantasy_market_10.jpeg" width="180" style="margin: 10px;"/>
 </div>
 
+<br>
+
+<div align="center">
+  <img src="assets/fantasy_market_9.png" width="180" style="margin: 10px;"/>
+  &nbsp;
+  <img src="assets/fantasy_market_10.png" width="180" style="margin: 10px;"/>
+  &nbsp;
+  <img src="assets/fantasy_market_11.png" width="180" style="margin: 10px;"/>
+  &nbsp;
+  <img src="assets/fantasy_market_12.jpeg" width="180" style="margin: 10px;"/>
+</div>
 
 
 ---
