@@ -150,18 +150,43 @@ An Android app to browse now-playing movies, search titles, save favorites, and 
 TheMovieHub Screenshots
 
 <div align="center">
-  <img src="assets/themoviehub_1.png" width="180" style="margin: 10px;"/>
+  <img src="assets/the_movie_hub_1.png" width="180" style="margin: 10px;"/>
   &nbsp;
-  <img src="assets/themoviehub_2.png" width="180" style="margin: 10px;"/>
+  <img src="assets/the_movie_hub_2.png" width="180" style="margin: 10px;"/>
   &nbsp;
-  <img src="assets/themoviehub_3.png" width="180" style="margin: 10px;"/>
+  <img src="assets/the_movie_hub_3.png" width="180" style="margin: 10px;"/>
   &nbsp;
-  <img src="assets/themoviehub_4.png" width="180" style="margin: 10px;"/>
+  <img src="assets/the_movie_hub_4.png" width="180" style="margin: 10px;"/>
   &nbsp;
 </div>
 
 <br>
 
+<div align="center">
+  <img src="assets/the_movie_hub_5.png" width="180" style="margin: 10px;"/>
+  &nbsp;
+  <img src="assets/the_movie_hub_6.png" width="180" style="margin: 10px;"/>
+  &nbsp;
+  <img src="assets/the_movie_hub_7.png" width="180" style="margin: 10px;"/>
+  &nbsp;
+  <img src="assets/the_movie_hub_8.png" width="180" style="margin: 10px;"/>
+  &nbsp;
+</div>
+
+<br>
+
+<div align="center">
+  <img src="assets/the_movie_hub_9.png" width="180" style="margin: 10px;"/>
+  &nbsp;
+  <img src="assets/the_movie_hub_10.png" width="180" style="margin: 10px;"/>
+  &nbsp;
+  <img src="assets/the_movie_hub_11.png" width="180" style="margin: 10px;"/>
+  &nbsp;
+  <img src="assets/the_movie_hub_12.png" width="180" style="margin: 10px;"/>
+  &nbsp;
+</div>
+
+<br>
 
 ---
 
