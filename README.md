@@ -144,8 +144,8 @@ An Android app to browse now-playing movies, search titles, save favorites, and 
 - Local storage using Room and SQLite
 
 **Status:** ✅ Published  
-**Tech Stack:** Android (XML), TMDB API, Retrofit, MVVM, Dagger Hilt, Room  
-**Available on Google Play:** [TheMovieHub on Play Store](https://play.google.com/store/apps/details?id=com.example.themoviehub)
+**Tech Stack:** Jetpack Compose, TMDB API, Retrofit, MVVM, Dagger Hilt, Room, Flow, Coroutines
+**Available on Google Play:** [TheMovieHub on Play Store](https://play.google.com/store/apps/details?id=com.example.themoviehub) (*Old version)
 
 TheMovieHub Screenshots
 
