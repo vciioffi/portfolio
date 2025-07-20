@@ -138,7 +138,8 @@ A modern Android application built with Jetpack Compose for creating, managing, 
 An Android app to browse now-playing movies, search titles, save favorites, and manage watchlists.
 
 **Features:**
-- Browse movies in theaters and search the TMDB database
+- featured movies and tv shows
+- Browse movies in theaters and search into the TMDB database
 - Save to favorites, create a watchlist and watched list
 - Clean architecture with MVVM and Dagger Hilt
 - Local storage using Room and SQLite
