@@ -146,7 +146,7 @@ An Android app to browse now-playing movies, search titles, save favorites, and 
 
 **Status:** ✅ Published  
 **Tech Stack:** Jetpack Compose, TMDB API, Retrofit, MVVM, Dagger Hilt, Room, Flow, Coroutines  
-**Available on Google Play:** [TheMovieHub on Play Store](https://play.google.com/store/apps/details?id=com.vcioffi.themoviehub) (* Old version *)
+**Available on Google Play:** [TheMovieHub on Play Store](https://play.google.com/store/apps/details?id=com.vcioffi.themoviehub)
 
 TheMovieHub Screenshots
 
